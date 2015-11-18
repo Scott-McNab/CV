@@ -1,12 +1,12 @@
 #Personal details
 
-Mr Scott McNab * * *
-6 Gortlane Drive\s\s
-Greenisland ***
-Carrickfergus ***
-BT38 8SY ***
-07922935497   ***
-scottmcnab94@gmail.com   
+>Mr Scott McNab
+>6 Gortlane Drive
+>Greenisland
+>Carrickfergus
+>BT38 8SY
+>07922935497
+>scottmcnab94@gmail.com   
 
 #Profile	
 I am a second year BDes Interaction Design student from the Belfast School of Art and I am currently seeking placement for the upcoming academic year . I am a talented, ambitious and self-motivated person with a strong technical background who possesses self-discipline and the ability to work with the minimum of supervision. I am a reliable, trustworthy, hardworking person who is eager and has a genuine interest in the computing industry. I am patient and a quick learner who can absorb new ideas and can communicate clearly and effectively.
