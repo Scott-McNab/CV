@@ -1,8 +1,9 @@
 #Personal details
 
 Mr Scott McNab
-6 Gortlane Drive, 
-Greenisland, Carrickfergus
+6 Gortlane Drive 
+Greenisland
+Carrickfergus
 BT38 8SY
 07922935497   
 scottmcnab94@gmail.com   
@@ -74,7 +75,7 @@ September 2008 – June 2010
 Information and Communication Technology A
 GCSE
 
-	#Belfast High School CCEA	
+	##Belfast High School CCEA	
 September 2008 – June 2010
 Art & Design C
 GCSE
