@@ -1,6 +1,6 @@
 #Personal details
 
-Mr Scott McNab\s\s
+Mr Scott McNab * * *
 6 Gortlane Drive\s\s
 Greenisland ***
 Carrickfergus ***
