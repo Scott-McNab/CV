@@ -1,11 +1,11 @@
 #Personal details
 
-Mr Scott McNab
-6 Gortlane Drive 
-Greenisland
-Carrickfergus
-BT38 8SY
-07922935497   
+Mr Scott McNab ***
+6 Gortlane Drive ***
+Greenisland ***
+Carrickfergus ***
+BT38 8SY ***
+07922935497   ***
 scottmcnab94@gmail.com   
 
 #Profile	
@@ -45,37 +45,37 @@ September 2011 – June 2012
 Certificate of Personal Effectiveness Pass
 CoPE Level 3
 
-	##Carrickfergus College CCEA	
+##Carrickfergus College CCEA	
 September 2010 – June 2012
 Information and Communication Technology D
 A Level
 
-	##Carrickfergus College CCEA	
+##Carrickfergus College CCEA	
 September 2010 – June 2012
 Business Studies C
 A Level
 
-	##Belfast High School CCEA	
+##Belfast High School CCEA	
 September 2008 – June 2010
 English Language C
 GCSE
 
-	##Belfast High School CCEA	
+##Belfast High School CCEA	
 September 2008 – June 2010
 Mathematics B
 GCSE
 
-	##Belfast High School CCEA	
+##Belfast High School CCEA	
 September 2008 – June 2010
 Science (Double Award) CC
 GCSE
 
-	##Belfast High School CCEA	
+##Belfast High School CCEA	
 September 2008 – June 2010
 Information and Communication Technology A
 GCSE
 
-	##Belfast High School CCEA	
+##Belfast High School CCEA	
 September 2008 – June 2010
 Art & Design C
 GCSE
